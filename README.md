@@ -4,7 +4,7 @@
 
 <h1 align="center">Olá! bem vindo ao meu Hub 🚀</h1>
 
-Eu sou a Beatriz. Tenho 19 anos, moro em Santo André - Brasil e sou estudante de Ciências da Computação.
+Eu sou a Beatriz. Tenho 19 anos, moro em Santo André - SP e sou estudante de Ciências da Computação.
 
 💻  Aprendendo e me aprofundando em Python.
 ✅  Disposta a aprender cada dia mais !
