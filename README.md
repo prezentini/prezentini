@@ -14,8 +14,6 @@ Me acompanhe nas minhas redes sociais:
  <a href="https://instagram.com/beatrizprezentini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "beatriz_prezentini@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-## Oiii! Eu sou a Beatriz Prezentini
-<div align="center">
   <a href="https://github.com/prezentini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prezentini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prezentini&layout=compact&langs_count=7&theme=dark"/>
