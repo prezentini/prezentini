@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy-downsized-large.gif?cid=ecf05e47mqlagk5fk6qw29dbyrlzsnr76d7rrakr0zbkbbk6&rid=giphy-downsized-large.gif&ct=g">
+</p>
+<h1 align="center">Hello, World 🚀</h1>
+
+
+
 # Olá! bem vindo ao meu Hub
 
 Eu sou a Beatriz, tenho 19 anos, moro em Santo André, Brasil e sou estudante de Ciência da Computação.
@@ -20,6 +27,8 @@ Me acompanhe nas minhas redes sociais:
   
   <img align="center" alt="Bia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   
+
   
   ##
  
@@ -32,3 +41,9 @@ Me acompanhe nas minhas redes sociais:
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ 
+ <p align="center">
+  <img src="https://media.giphy.com/media/Ken6Yg5n7bYStW4JYB/giphy.gif">
+</p>
+<h1 align="center">Hello, World 🚀</h1>
+
