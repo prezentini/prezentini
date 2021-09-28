@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy-downsized-large.gif?cid=ecf05e47mqlagk5fk6qw29dbyrlzsnr76d7rrakr0zbkbbk6&rid=giphy-downsized-large.gif&ct=g">
+  <img src="https://media.giphy.com/media/7FrOU9tPbgAZtxV5mb/source.gif?cid=ecf05e47mqlagk5fk6qw29dbyrlzsnr76d7rrakr0zbkbbk6&rid=source.gif&ct=g">
 </p>
 <h1 align="center">Hello, World 🚀</h1>
 
