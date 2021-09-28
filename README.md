@@ -1,11 +1,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/7FrOU9tPbgAZtxV5mb/source.gif?cid=ecf05e47mqlagk5fk6qw29dbyrlzsnr76d7rrakr0zbkbbk6&rid=source.gif&ct=g">
 </p>
-<h1 align="center">Hello, World 🚀</h1>
-
-
-
-# Olá! bem vindo ao meu Hub
+<h1 align="center">Olá! bem vindo ao meu Hub 🚀</h1>
 
 Eu sou a Beatriz, tenho 19 anos, moro em Santo André, Brasil e sou estudante de Ciência da Computação.
 
