@@ -39,7 +39,7 @@ Me acompanhe nas minhas redes sociais:
 </div>
  
  <p align="center">
-  <img src="https://media.giphy.com/media/Ken6Yg5n7bYStW4JYB/giphy.gif">
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=ecf05e47iamy9rvvvemc5b5wwi4hqx3eqewuunlj06omxgpx&rid=giphy.gif&ct=g">
 </p>
 <h1 align="center">Hello, World 🚀</h1>
 
